@@ -1,3 +1,5 @@
+![Forge Logo](https://avatars.githubusercontent.com/u/1390178?s=200&v=4 "Forge Logo")
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
